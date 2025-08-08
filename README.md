@@ -1,4 +1,4 @@
-his project analyzes user-written drug reviews to determine sentiment (positive, negative, neutral) and uses that sentiment (plus simple heuristics / metadata) to recommend drugs or highlight alternatives.
+This project analyzes user-written drug reviews to determine sentiment (positive, negative, neutral) and uses that sentiment (plus simple heuristics / metadata) to recommend drugs or highlight alternatives.
 It’s useful for clinicians, pharmacists, and users who want a quick, data-driven summary of real-world experiences and recommended medications.
 
 Core idea:
